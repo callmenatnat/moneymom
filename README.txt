@@ -1,0 +1,1 @@
+Upload all files to GitHub Pages, Netlify, or Vercel then Add to Home Screen on iPhone.
